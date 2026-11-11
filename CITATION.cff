@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you refer to this protocol or the frozen-ratio evaluation design, please cite the manuscript."
+authors:
+  - family-names: Li
+    given-names: Yinghe
+title: "A Frozen Warning-Ratio Protocol for Cross-Semester Academic Risk Prediction"
+type: manuscript
+year: 2026
+repository-code: "https://github.com/lyh112358/frozen-warning-ratio-protocol"
+url: "https://github.com/lyh112358/frozen-warning-ratio-protocol"
+license: CC-BY-4.0
